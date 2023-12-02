@@ -33,7 +33,9 @@ MailGram is a robust email marketing platform built with Django, Django Rest Fra
 
 `python -m venv venv`
 `source venv/bin/activate`   # For Linux/Mac
-# OR
+
+OR
+
 `.\venv\Scripts\activate`    # For Windows
 
 ## Install Dependencies:
